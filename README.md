@@ -1,2 +1,2 @@
 # gaussian_splats_host
-simple page to hoist gaussian splats!
+simple page to host gaussian splats!
