@@ -2,5 +2,9 @@
   {
     "name": "platform_in_whater",
     "path": "gaussians/platform_in_whater/point_cloud_clean_comp.ply"
+  },
+  {
+    "name": "small_kitchen",
+    "path": "gaussians/small_kitchen/point_cloud.compressed.ply"
   }
 ]
