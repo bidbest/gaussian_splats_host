@@ -4,6 +4,10 @@
     "path": "gaussians/lotus/pointcloud.compressed.ply"
   },
   {
+    "name": "dinner",
+    "path": "gaussians/dinner/pc.compressed.ply"
+  },
+  {
     "name": "platform_in_whater",
     "path": "gaussians/platform_in_whater/point_cloud_clean_comp.ply"
   },
