@@ -4,6 +4,10 @@
     "path": "gaussians/lotus/pointcloud.compressed.ply"
   },
   {
+    "name": "tokyo",
+    "path": "gaussians/tokyo/point_cloud.compressed.ply"
+  },
+  {
     "name": "dinner",
     "path": "gaussians/dinner/pc.compressed.ply"
   },
