@@ -26,5 +26,9 @@
   {
     "name": "small_kitchen",
     "path": "gaussians/small_kitchen/point_cloud.compressed.ply"
+  },
+  {
+    "name": "barcellona_rooftop",
+    "path": "gaussians/barcellona_rooftop/point_cloud.compressed.ply"
   }
 ]
