@@ -1,11 +1,7 @@
 [
   {
-    "name": "lotus",
-    "path": "gaussians/lotus/pointcloud.compressed.ply"
-  },
-  {
-    "name": "tokyo",
-    "path": "gaussians/tokyo/point_cloud.compressed.ply"
+    "name": "mountain_buddha",
+    "path": "gaussians/mountain_buddha/point_cloud.compressed.ply"
   },
   {
     "name": "dinner",
@@ -30,5 +26,13 @@
   {
     "name": "barcellona_rooftop",
     "path": "gaussians/barcellona_rooftop/point_cloud.compressed.ply"
+  },
+  {
+    "name": "park",
+    "path": "gaussians/park/point_cloud.compressed.ply"
+  },
+  {
+    "name": "city_skyline_small",
+    "path": "gaussians/city_skyline_small/point_cloud.compressed.ply"
   }
 ]
