@@ -12,8 +12,8 @@
     "path": "gaussians/oil/point_cloud.compressed.ply"
   },
   {
-    "name": "platform_in_whater",
-    "path": "gaussians/platform_in_whater/point_cloud_clean_comp.ply"
+    "name": "platform_in_water",
+    "path": "gaussians/platform_in_water/point_cloud_clean_comp.ply"
   },
   {
     "name": "dinner2",
