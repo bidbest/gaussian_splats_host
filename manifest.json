@@ -4,32 +4,8 @@
     "path": "gaussians/mountain_buddha/point_cloud.compressed.ply"
   },
   {
-    "name": "dinner",
-    "path": "gaussians/dinner/pc.compressed.ply"
-  },
-  {
-    "name": "oil",
-    "path": "gaussians/oil/point_cloud.compressed.ply"
-  },
-  {
     "name": "platform_in_water",
     "path": "gaussians/platform_in_water/point_cloud_clean_comp.ply"
-  },
-  {
-    "name": "dinner2",
-    "path": "gaussians/dinner2/point_cloud.compressed.ply"
-  },
-  {
-    "name": "small_kitchen",
-    "path": "gaussians/small_kitchen/point_cloud.compressed.ply"
-  },
-  {
-    "name": "barcellona_rooftop",
-    "path": "gaussians/barcellona_rooftop/point_cloud.compressed.ply"
-  },
-  {
-    "name": "park",
-    "path": "gaussians/park/point_cloud.compressed.ply"
   },
   {
     "name": "city_skyline_small",
